@@ -16,7 +16,7 @@ public class JdbcDaoController {
     }
 
     @GetMapping("/products/fetch-product")
-    public List<String> getProductName(@RequestParam("name") String name) throws SQLException {
+    public List<String> getProductName(@RequestParam("name") String name) {
         return jdbcDaoRepository.getProductName(name);
     }
 }
