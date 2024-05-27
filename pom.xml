@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>ru.netology</groupId>
-    <artifactId>jdbc_dao</artifactId>
+    <artifactId>migrations</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>jdbc_dao</name>
-    <description>jdbc_dao</description>
+    <name>migrations</name>
+    <description>migrations</description>
     <properties>
         <java.version>22</java.version>
     </properties>

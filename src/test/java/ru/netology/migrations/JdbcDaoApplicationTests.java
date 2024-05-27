@@ -1,4 +1,4 @@
-package ru.netology.jdbc_dao;
+package ru.netology.migrations;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
